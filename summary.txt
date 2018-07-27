@@ -1,0 +1,15 @@
+summary(file)
+      trt             celltype       time           status           karno          diagtime           age       
+ Min.   :1.000   squamous :35   Min.   :  1.0   Min.   :0.0000   Min.   :10.00   Min.   : 1.000   Min.   :34.00  
+ 1st Qu.:1.000   smallcell:48   1st Qu.: 25.0   1st Qu.:1.0000   1st Qu.:40.00   1st Qu.: 3.000   1st Qu.:51.00  
+ Median :1.000   adeno    :27   Median : 80.0   Median :1.0000   Median :60.00   Median : 5.000   Median :62.00  
+ Mean   :1.496   large    :27   Mean   :121.6   Mean   :0.9343   Mean   :58.57   Mean   : 8.774   Mean   :58.31  
+ 3rd Qu.:2.000                  3rd Qu.:144.0   3rd Qu.:1.0000   3rd Qu.:75.00   3rd Qu.:11.000   3rd Qu.:66.00  
+ Max.   :2.000                  Max.   :999.0   Max.   :1.0000   Max.   :99.00   Max.   :87.000   Max.   :81.00  
+     prior      
+ Min.   : 0.00  
+ 1st Qu.: 0.00  
+ Median : 0.00  
+ Mean   : 2.92  
+ 3rd Qu.:10.00  
+ Max.   :10.00  
